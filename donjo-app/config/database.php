@@ -112,9 +112,9 @@ $query_builder = true;
 
 // Pengaturan basisdata standar
 $db['default']['hostname']     = 'localhost';
-$db['default']['username']     = 'opensid';
-$db['default']['password']     = 'rahasia';
-$db['default']['database']     = 'opensid';
+$db['default']['username']     = 'root';
+$db['default']['password']     = '';
+$db['default']['database']     = 'database_sengguruh';
 $db['default']['port']         = 3306;
 $db['default']['stricton']     = true;
 $db['default']['dbdriver']     = 'mysqli';
